@@ -9,7 +9,7 @@ import java.util.concurrent.TimeUnit;
 /***
  *@author lenovo
  *@date 2019/5/19 8:53
- *@Description:
+ *@Description: 队列消费
  *@version 1.0
  */
 public class DistributeQueueConsumerTest {
